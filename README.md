@@ -2,7 +2,7 @@
 
 **Download videos from webpages with a simple, convenient, and user-friendly experience.**
 
-[Visit VidBrowser](https://vidbrowser.app) · [Explore the Project](https://github.com/panxiaojie0918-ai/vidbrowser) · [Report an Issue](https://github.com/panxiaojie0918-ai/vidbrowser/issues)
+[Visit VidBrowser](https://vidbrowser.app) · [Explore the Project](https://github.com/lulu-us/vidbrowser) · [Report an Issue](https://github.com/lulu-us/vidbrowser/issues)
 
 ---
 
@@ -138,7 +138,7 @@ Feedback and suggestions can help improve VidBrowser.
 
 If you encounter a problem or have an idea for improvement, you can:
 
-1. Visit the [GitHub Issues page](https://github.com/panxiaojie0918-ai/vidbrowser/issues).
+1. Visit the [GitHub Issues page](https://github.com/lulu-us/vidbrowser/issues).
 2. Describe the issue or feature request clearly.
 3. Include relevant reproduction steps and environment details when reporting a bug.
 
